@@ -1,3 +1,5 @@
+#devtools::install_github("tonyfujs/mdlibtoddh")
+#devtools::install_github("tonyfujs/ddhconnect")
 library(mdlibconnect)
 library(pipload)
 library(tidyverse)
